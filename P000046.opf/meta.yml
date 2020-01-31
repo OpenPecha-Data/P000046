@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  authors:
+  - མཛད་པ་པོ། རྨ་བྱ་བ་བྱང་ཆུབ་བརྩོན་འགྲུས།
+  sku: RDI-SS-16-1
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: Ornament of Reason:The Great Commentary to Nagarjuna’s Root of the Middle
+      Way, Vol. 1
+    bo: རྩ་ཤེའི་འགྲེལ་བ་འཐད་པའི་རྒྱན། སྟོད་ཆ།
+  collection:
+    en: RDI Study Series–  Book 16 – 1
+    bo: ཐོས་བསམ་འཆད་ཉན་གྱི་རིམ་པ།–  དེབ། ༡༦ – ༡
+  author:
+    en: Jangchub Tsondru
+    bo: བྱང་ཆུབ་བརྩོན་འགྲུས།
+  pusblisher:
+    en: Rigpe Dorje Institute
+    bo: རིག་པའི་རྡོ་རྗེ་གཙུག་ལག་སློབ་ཉེར་ཁང་།
+  sku: RDI-SS-16-1
+  category:
+    en: Madhyamika
+    bo: དབུ་མ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: RDI-SS-16-1.epub
+  description:
+    en: ''
+    bo: ''
